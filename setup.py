@@ -1,12 +1,12 @@
 __author__ = 'phendricks'
 from setuptools import setup
 
-setup(name='profile',
+setup(name='pyprofilr',
       version='0.1',
-      description='The funniest joke in the world',
-      url='http://github.com/paulhendricks/funniest',
-      author='Flying Circus',
-      author_email='flyingcircus@example.com',
+      description='Profile data in Python',
+      url='http://github.com/paulhendricks/pyprofilr',
+      author='Paul Hendricks',
+      author_email='paul.hendricks.2013@owu.edu',
       license='MIT',
       packages=['funniest'],
       zip_safe=False, 
