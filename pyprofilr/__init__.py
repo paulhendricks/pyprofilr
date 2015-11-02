@@ -1,10 +1,5 @@
-__author__ = 'phendricks'
+# pyprofilr/__init__.py
 
+__version__ = '0.1'
 
-def profile(x):
-    """Profile x and return a pandas.DataFrame with important summary statistics."""
-
-    # TODO Assert that object is in fact a pandas data frame
-    return x
-
-    # TODO Assert that object is in fact a pandas data frame
+from .profile import *
