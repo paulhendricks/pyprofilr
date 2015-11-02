@@ -1,4 +1,4 @@
-# pyprofilr/test/test_profile.py
+# pyprofilr/tests/test_profile.py
 
 from unittest import TestCase
 # import time
