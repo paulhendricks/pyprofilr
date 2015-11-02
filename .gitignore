@@ -1,5 +1,5 @@
 build
 **/.idea
 dist
-funniest.egg-info
+pyprofilr.egg-info
 **/*.pyc

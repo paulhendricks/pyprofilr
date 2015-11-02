@@ -15,7 +15,7 @@ pyprofilr is a library for profiling data in Python 3.
       maintainer='Paul Hendricks',
       maintainer_email='paul.hendricks.2013@owu.edu',
       license='MIT',
-      packages=['pyprofilr', 'pyprofilr.test'],
+      packages=['pyprofilr'],
       zip_safe=False, 
       test_suite='nose.collector', 
       tests_require=['nose'])
