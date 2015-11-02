@@ -7,7 +7,7 @@ setup(name='pyprofilr',
       version='0.1',
       description='Profile data in Python',
       long_description="""
-pyprofilr is a library for profiling data in Python 3.
+pyprofilr is a library for profiling data in Python 2.7.
 """,
       url='http://github.com/paulhendricks/pyprofilr',
       author='Paul Hendricks',
