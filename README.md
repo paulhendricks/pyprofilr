@@ -1,5 +1,5 @@
-# Sample Python Package
+# pyprofilr
 
 [![Build Status](https://travis-ci.org/paulhendricks/pyprofilr.png?branch=master)](https://travis-ci.org/paulhendricks/pyprofilr)
 
-Build successfully passes! Need to implement some basic code and some unit tests.
+Profile data in Python.
