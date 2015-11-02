@@ -15,5 +15,5 @@ class TestProfile(TestCase):
         s = pyprofilr.profile.joke()
         self.assertTrue(isinstance(s, basestring))
 
-    def should_break(self):
+    def test_should_break(self):
         self.assertEqual('hello', 'hello world')
