@@ -8,4 +8,4 @@
 
 
 def joke():
-    return (u'Wenn ist das ')
+    return u'Wenn ist das'
