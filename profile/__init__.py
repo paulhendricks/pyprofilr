@@ -11,4 +11,3 @@ def profile(x):
 
     # TODO Assert that object is in fact a pandas data frame
     return isinstance(x, pandas.DataFrame)
-
