@@ -2,8 +2,4 @@
 
 [![Build Status](https://travis-ci.org/paulhendricks/pyprofilr.png?branch=master)](https://travis-ci.org/paulhendricks/pyprofilr)
 
-This is a test.
-
-Trigger build!
-
-Try to trigger again!
+Build successfully passes! Need to implement some basic code and some unit tests.
