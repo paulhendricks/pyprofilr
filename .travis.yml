@@ -4,4 +4,4 @@ python:
 
 # command to run tests and lint
 install: "pip install nose pylint"
-script: "nosetests && pylint"
+script: "nosetests && pylint pyprofilr --errors-only"
