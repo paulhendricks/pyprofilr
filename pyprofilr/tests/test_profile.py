@@ -16,4 +16,4 @@ class TestProfile(TestCase):
         self.assertTrue(isinstance(s, basestring))
 
     def test_should_break(self):
-        self.assertEqual('hello', 'hello world')
+        self.assertEqual('hello world', 'hello world')
