@@ -6,12 +6,6 @@
 #
 # This is the core of pyprofilr.
 
-import pandas
-import numpy
-from sklearn.datasets import load_boston
-
-data = pandas.DataFrame(load_boston().data)
-data.describe()
 
 __all__ = ['profile']
 
